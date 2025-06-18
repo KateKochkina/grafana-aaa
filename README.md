@@ -1,11 +1,15 @@
 # ML System design
 
+В grafana.json экспортированный дэшборд
+
+---
+
 3w [readme](./w3-model-evaluation/ReadMe.md)
 
-# Grafana Workshop
+## Grafana Workshop
 [Grafana Workshop Readme](./grafana-practice/ReadMe.md)
 
-## Installation
+### Installation
 1. Для проекта нужен python3.6+
 - [pyenv](https://github.com/pyenv/pyenv)
 - [Miniconda/Anaconda](https://docs.conda.io/en/latest/miniconda.html)
